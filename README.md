@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-oxzwalkar21/oxzwalkar21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+oxzwalkar21/oxzwalkar21 is a ✨ specialbecause its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
